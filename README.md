@@ -2,7 +2,11 @@
 My first Data Science project
 
 **Explanation**
+
+
 An algorithm to enable taxi drivers and customers to satisfactorily earn and get from one place to another easily.
 
-**Methodology **
+**Methodology**
+
+
 Will upload
